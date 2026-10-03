@@ -35,7 +35,7 @@ I enjoy turning ideas into working applications and learning by building.
 
 **ChromaDB · FAISS · LangChain Document Loaders · RecursiveCharacterTextSplitter · Gradio**
 
-### 💻 Languages
+### 💻 Languages: Python, Java
 
 ### 🌐 Full-Stack Development
 
