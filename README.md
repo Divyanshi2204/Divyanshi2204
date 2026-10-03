@@ -29,23 +29,13 @@ I enjoy turning ideas into working applications and learning by building.
 
 ### 🤖 AI / LLM
 
-
-
-\
-
 **RAG · Prompt Engineering · Semantic Search · Embeddings · Text Chunking · LLM APIs**
 
 ### 🧠 Vector Databases & AI Tools
 
-\
-
 **ChromaDB · FAISS · LangChain Document Loaders · RecursiveCharacterTextSplitter · Gradio**
 
 ### 💻 Languages
-
-
-
-\
 
 ### 🌐 Full-Stack Development
 
